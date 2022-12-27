@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @sselect
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-sselect/sselect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+```js! 
+
+const Selectdev = {
+  pronouns: "HE" | "HIM",
+  technologies: [Javascript, HTML, CSS, Java],
+  tools: [React, Storybook, Styled-Components, VS code, IntelliJ IDEA, git, github],
+  }
+ ...
+                     
+ Me puedes encontrar:
+ - [twitter](https://twitter.com/elysannt)
