@@ -1,4 +1,7 @@
 
+
+# Developer in Progress ⚒️
+
 Hola mi nombre es Ely Hernandez, Desarrollador de Software en construccion;
 
 ```js! 
@@ -6,6 +9,6 @@ Hola mi nombre es Ely Hernandez, Desarrollador de Software en construccion;
 const Selectdev = {
   pronouns: "HE" | "HIM",
   technologies: [Javascript, HTML, CSS, Java],
-  tools: [React, Storybook, Styled-Components, VS code, IntelliJ IDEA, git, github],
+  tools: [VS code, IntelliJ IDEA, git, github],
   }
  ...
