@@ -6,9 +6,10 @@
 
 ```js! 
 
-const Selectdev = {
+const Ely Santiago Hernandez = {
   pronouns: "HE" | "HIM",
-  technologies: [Javascript, Html, CSS, Java, Spring, Docker],
-  tools: [VS code, IntelliJ IDEA, git, github, Kraken],
+  technologies: [Javascript, Java, Spring, C#, APIs RestFul],
+  tools: [VSC, IntelliJ IDEA, Git, Postman, Oracle SQL Developer, ],
+  Oracle CLoud Infrastructure, Oracle Integrations Cloud
   }
  ...
